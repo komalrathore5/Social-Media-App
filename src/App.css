@@ -17,12 +17,12 @@ nav {
 .post {
     border: 1px solid #fff;
     padding: .2rem .2rem .5rem;
-    border-radius: 0.5rem;
+    border-radius: 2rem;
 }
 .post>img {
     width: 100%;
-    border-top-left-radius: 0.5rem;
-    border-top-right-radius: 0.5rem;
+    border-top-left-radius: 2rem;
+    border-top-right-radius: 2rem;
 }
 .post>p,
 .post>h3 {

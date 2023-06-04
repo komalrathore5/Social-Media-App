@@ -40,9 +40,3 @@
     ]
   }
 }
-git init
-git add .
-git commit -m "Social-Media-App"
-git branch -M main
-git remote add origin https://github.com/komalrathore5/Social-Media-App.git
-git push -u origin main
